@@ -2,7 +2,7 @@
 
 First OpenGL project in C++. Renders a subdivided equilateral triangle using a VAO/VBO/EBO pipeline with GLFW, GLAD, and custom GLSL shaders.
 
-Exemple:
+Example:
 
 ![triangle](https://learnopengl.com/img/getting-started/shaders3.png)
 
